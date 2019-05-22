@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import * as generatorFunctions from '../../modules/generator.fn';
+import '../../modules/generator.fn';
 
 class App extends Component {
     componentDidMount() {

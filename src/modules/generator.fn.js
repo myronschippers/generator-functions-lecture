@@ -38,11 +38,3 @@ console.log(countDownNow.next());
 console.log(countDownNow.next());
 console.log(countDownNow.next());
 console.log(countDownNow.next());
-
-
-
-
-
-
-
-export {};
