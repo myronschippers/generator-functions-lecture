@@ -1,8 +1,12 @@
 # Generator Functions
 
-## Getting starte
+## Getting started
 
 In the project directory, you can run:
+
+`npm install`
+
+then
 
 `npm run client`
 
